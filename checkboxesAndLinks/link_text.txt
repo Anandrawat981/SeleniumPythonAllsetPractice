@@ -1,0 +1,181 @@
+
+ 
+HTML Tutorials
+CSS Tutorials
+Web Hosting
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Making Feedback Forms
+A Simple Feedback Form
+Installing NMS FormMail
+Debugging Your Setup
+My Web Host is Out to Lunch
+User Input Components
+Text Fields
+Checkboxes & Radio Buttons
+Dropdown Menus
+Push Buttons
+Layout and Presentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+text fields
+checkboxes
+radio buttons
+
+control name
+current value
+
+checkboxes
+
+control name
+current value
+above example
+dropdown menu...
+Free Text Editors
+Free Graphics Editors
+Website Analysis Tools
+Free Website Templates
+Best Free Web Hosting
+www.GoDaddy.com
+<~ BACK
+TOP
+NEXT ~>
+HTML Tutorials
+CSS Tutorials
+Web Hosting
+Domain Names
+Web Design Resources
